@@ -1,3 +1,6 @@
+# SCRIPT DOESN'T WORK PROPERLY ON NEWEST MAGICK VERSION
+Download [Version 7.0.10-1](https://imagemagick.org/download/windows/releases/ImageMagick-7.0.10-2.7z) or older in order to make it work properly.
+
 ## osu-fontgen
 
 Generates score fonts, combo fonts and/or circle (default) fonts based on options specified in script's header.
@@ -6,7 +9,7 @@ Documentation available at bottom of the script.
 ### How to use?
 
 If you want to use it on Windows, you'll need to install [Git For Windows with Git Bash](https://gitforwindows.org/)
-and [newest version of ImageMagick](https://imagemagick.org/script/download.php#windows). If you install it
+and [ImageMagick 7.0.10-1 or older](https://imagemagick.org/download/windows/releases/ImageMagick-7.0.10-2.7z). If you install it
 with default settings, you
 should be able to just doubleclick the script and it'll do the work.
 
