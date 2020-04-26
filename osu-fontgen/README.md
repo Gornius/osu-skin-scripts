@@ -1,5 +1,5 @@
-# SCRIPT DOESN'T WORK PROPERLY ON NEWEST MAGICK VERSION
-Download [Version 7.0.10-1](http://ftp.icm.edu.pl/packages/ImageMagick/binaries/ImageMagick-7.0.10-1-Q8-x64-static.exe) or older in order to make it work properly.
+# ~~SCRIPT DOESN'T WORK PROPERLY ON Imagemagick 7.0.10-2 - 7.0.10-9
+Download [Version 7.0.10-1](http://ftp.icm.edu.pl/packages/ImageMagick/binaries/ImageMagick-7.0.10-1-Q8-x64-static.exe) or older in order to make it work properly.~~ Works again in 7.0.10-9.
 
 ## osu-fontgen
 
