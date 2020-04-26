@@ -1,5 +1,5 @@
-# ~~SCRIPT DOESN'T WORK PROPERLY ON Imagemagick 7.0.10-2 - 7.0.10-9
-Download [Version 7.0.10-1](http://ftp.icm.edu.pl/packages/ImageMagick/binaries/ImageMagick-7.0.10-1-Q8-x64-static.exe) or older in order to make it work properly.~~ Works again in 7.0.10-9.
+# ~~SCRIPT DOESN'T WORK PROPERLY ON Imagemagick 7.0.10-2 - 7.0.10-9~~
+~~Download [Version 7.0.10-1](http://ftp.icm.edu.pl/packages/ImageMagick/binaries/ImageMagick-7.0.10-1-Q8-x64-static.exe) or older in order to make it work properly.~~ Works again in 7.0.10-9.
 
 ## osu-fontgen
 
@@ -9,7 +9,7 @@ Documentation available at bottom of the script.
 ### How to use?
 
 If you want to use it on Windows, you'll need to install [Git For Windows with Git Bash](https://gitforwindows.org/)
-and [ImageMagick 7.0.10-1 or older](http://ftp.icm.edu.pl/packages/ImageMagick/binaries/ImageMagick-7.0.10-1-Q8-x64-static.exe). If you install it
+and [ImageMagick](https://imagemagick.org/script/download.php#windows). If you install it
 with default settings, you
 should be able to just doubleclick the script and it'll do the work.
 
