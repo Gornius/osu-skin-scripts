@@ -1,5 +1,5 @@
 # osu-skin-scripts
-Collection of scripts that automate  making of osu! skins
+Script(s) that automate  making of osu! skins
 
 ## osu-fontgen
 
